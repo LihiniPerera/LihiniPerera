@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lihini perera</h1>
+<h1 align="center">Hi 👋, I'm Lihini Perera</h1>
 <h3 align="center">Software engineering undergraduate 😊</h3>
 
 - 🔭 I’m currently working on [Crop Management System](https://github.com/SLIIT-FacultyOfComputing/itp_project-g08.git)
